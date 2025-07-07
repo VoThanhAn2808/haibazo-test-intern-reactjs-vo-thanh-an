@@ -14,7 +14,7 @@ The objective of the game is to **clear all numbered points** that appear random
 
 ## 🚀 Live Demo
 
-👉 **[Play the game here (Vercel link)](https://your-vercel-link.vercel.app)**  
+👉 **[Play the game here (Vercel link)](https://haibazo-test-intern-reactjs-vo-than.vercel.app/)**  
 *📌 Replace this with your actual Vercel URL after deploying.*
 
 ## 🛠️ Tech Stack
